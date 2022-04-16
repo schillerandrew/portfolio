@@ -39,7 +39,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": ".",
+  "homepage": "https://schillerandrew-portfolio.netlify.app",
   "devDependencies": {
     "@iconify/icons-logos": "^1.0.12",
     "@iconify/react": "^1.1.3",
