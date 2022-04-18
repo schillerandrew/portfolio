@@ -5,13 +5,13 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
-          "class": "fab fa-github"
+          "url": "https://github.com/schillerandrew",
+          "class": "fab fa-github fa-2x"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/schiller-andrew/",
+          "class": "fab fa-linkedin fa-2x"
         }
       ],
       "image": "andrew.jpg"
